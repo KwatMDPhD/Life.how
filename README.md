@@ -26,6 +26,8 @@ Shower within 30 minutes after exercising.
 
 Get TSA PreCheck.
 
+Sleep 10 hours everyday.
+
 ## Season
 
 Get woods.
