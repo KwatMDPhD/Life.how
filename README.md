@@ -4,7 +4,7 @@ Repeat events from Monday to Saturday evening.
 
 Treat any cut, no matter how small.
 
-Shower after sweating.
+Shower within 30 minutes after exercising.
 
 ## Input
 
