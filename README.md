@@ -1,3 +1,17 @@
+## Abstract
+
+Less is more.
+
+## Input
+
+Get sun light.
+
+Get cold.
+
+Drink coffee, milk, tea, and water.
+
+Eat meat (wild games), fruits, nuts, and yogurt.
+
 ## Do
 
 Repeat events from Monday to Saturday evening.
@@ -6,12 +20,12 @@ Treat any cut, no matter how small.
 
 Shower within 30 minutes after exercising.
 
-## Input
+Use red lights at night.
 
-Get sun light.
+Get TSA PreCheck.
 
-Get cold.
+## Season
 
-## Abstract
+Get woods.
 
-Less is more.
+Scout and hunt.
