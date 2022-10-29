@@ -6,6 +6,8 @@ Less is more.
 
 Get sun light.
 
+Use red lights at night.
+
 Get cold.
 
 Drink coffee, milk, tea, and water.
@@ -14,13 +16,13 @@ Eat meat (wild games), fruits, nuts, and yogurt.
 
 ## Do
 
+Do only things that I can consistently do for the next 3 years.
+
 Repeat events from Monday to Saturday evening.
 
 Treat any cut, no matter how small.
 
 Shower within 30 minutes after exercising.
-
-Use red lights at night.
 
 Get TSA PreCheck.
 
