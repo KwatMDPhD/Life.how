@@ -28,6 +28,10 @@ Get TSA PreCheck.
 
 Sleep 10 hours everyday.
 
+Use vi.
+
+Use the non-dominant hand when using a mice.
+
 ## Season
 
 Get woods.
