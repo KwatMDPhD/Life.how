@@ -2,6 +2,8 @@
 
 Less is more.
 
+Doing difficult things starts with an initial resistance (for example, beginning of an exercise, ice bath, studying, and programming is uncomfortable), and being aware of this phenomenon and overcoming it on demand is required for achieving greatness.
+
 ## Input
 
 Get sun light.
