@@ -39,3 +39,9 @@ Use the non-dominant hand when using a mice.
 Get woods.
 
 Scout and hunt.
+
+## Quote
+
+Every adversity, carries with it, the seed of equivalent advantage.
+
+Become the best in the world first; everything else follows.
